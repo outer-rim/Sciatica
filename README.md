@@ -80,8 +80,6 @@ pip install -r requirements.txt
 streamlit run deploy.py
 ```
 
-App has been deployed [here](https://outer-rim-sciatica-deploy-gfnw13.streamlit.app/)
-
 ### Directory Structure
 
 - Any `.ipynb` files that need to be run must be placed in this root directory which will contain the `/data` directory and `/Results` directory.
