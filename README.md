@@ -1,6 +1,6 @@
 # <div align="center">SCIATICA</div>
 
-> Repository for End term submission for Information Retrieval course (CS60050) offered in Spring semester 2023, Department of CSE, IIT Kharagpur.
+> Repository for End term submission for Information Retrieval course (CS60092) offered in Spring semester 2023, Department of CSE, IIT Kharagpur.
 
 <!-- PROJECT LOGO -->
 <br />
